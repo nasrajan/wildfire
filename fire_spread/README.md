@@ -3,7 +3,7 @@
 Fire progression problem can be formulated as Markov Decision Process (MDP)
 
 <div style="width:500; height:500">
-![MDP Problem Fomulation](/fire_spread/images/mdp_problem_formulation.jpg){:height="500" width="500"}
+![MDP Problem Fomulation](/fire_spread/images/mdp_problem_formulation.jpg)
 </div>
 
 # Model A - Value Iteration - Model Based Model
