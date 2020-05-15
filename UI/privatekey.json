@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spartan-vertex-275909",
+  "private_key_id": "45a22b59cfa504c0407a85186e056e07edc09f8d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCS8QV5Til8bDuz\notm+oZfAcNfiEbbDH5aQnipwrdKxUvQyLaZFNCdSVema1mlW4GWo8HH1FndfWvAr\nIti1Xfe4v9uL6MCf77oLTWvP2460MMluJKTIqIeyO7fb8L8jCxjgDSP5bSz412xC\n7HAC/pLRnDKP6nJZ1iAI4TCrB17IFsPPNRo+DondAOI/POGhfu8ZnKYJQvlJR4Oj\n/zTGyKPrdiO+q/W8A2v3cjy08KlY6HC5qBngTIIXzKNQus7LQXj+DQBdRHVIn3ji\nHcSXUjXlTpkZT8BwNs/+6eYuvGWnnvEDWwAnIyXOIQmGqT+TkOWpbWVHB7lndAaL\ntYvrro2fAgMBAAECggEAOsLnzXrUXE1sEootSW6VoP9/VYh/7cfUDkEx952LhB4I\nSYi31TTmBKcWpDTaK0PRY53D9J7nXdqf8KAeyWiqh9cxlOGfJlZXr+1mD9ldV/Gq\nm8FLpHLA0SXQgMPlq73kVLTsjfJ66Yg8YwbqREhJrkkobyTyVbqrVOG49Kwd2yWk\nPcFq7z7wmJmM/4HWEuG9N5nYhHmelJPTppRScfWw6//f64ylaNxXrBH5LHc8dzIq\n7COrOuymrRTARRIgCZEWF1w3fV211+J5wR2uEpUdr2V1yRj8E36hyVlhN2bK7Hxu\nvS6whXRWjgiGo2Uy9pEwyOYnQPrdYShmOWD7TUakAQKBgQDGl8UkFw+oYAtA9Y8D\n311aAruh/0wkmsQDp/n5xpiLmZGvW2s5iZer1t/MH+08YsNVDAYdYYKAHiGScpcH\nhk7Yelx26O5Dgn2QGRIGzkyqOIaYcYGrF1T4oTwwraThnfhMIigisLMCtci/n7IL\nueG7YI+AMMjg9O1orfFRfkzOUQKBgQC9avUIvn+p7qNeJtaaWh+MtwFdw8UZ71mI\nyo41ABu/2CLafRLu79M1Qtx4GWKslgqEuG4u1XO4lMAwz5ThkVyX/gpp8mkS7jee\nC2VNaVeYIkd7qxldHitmwrAbPX9EtX7+VsCkEH2d6heyL64nY31ky0yzoVI9ws0v\n0nGBji7w7wKBgQCGLEgfaA1GHw27Z6ymWyUBCVOn0YqqOH4yUi0L2md5+dl59nPt\nPc7hZJ1zliZ8Y+XA8gy3kQfQc4sPHKh5hv6CN7l9BUblCaa30phhTMRzRRl6qUWI\nSI06JgU6hjcdz9LP7UvclDF9pT/qZ4Stc3rVVBnf7BXsFs7HqK2f94sA4QKBgQCv\ng0nlfk7g8OSjuy0i/Ns7Ed/MODiMXYIDBF1csusDioxRE4/Vopd8RKXxCuSpsqWw\ncQx3jQWbRQoIsG/tyzmXBKg1n47JIb6bTUfiwPePWkQOTW5FIE1q/H8d3o/s5Jf1\nqAD8hONAzcaDLzcZ/FAWc2JxF8wSukxSQZc3Sr4oNQKBgQCU2hAXp82l/aab/bCG\nx+X7sjUQpkeX1UkmUvvcpTN4WrSqUpOXI6KnxOR1pK1O1eBRMN8XxEI1HRFQgr+B\nx7I7ijrkY3Tna/5W3CPPTOrGs4B9+XFJhGQO5HnAJJevNBcq7t9b2WtjD5A+C/WT\nbJzG8OK3X5870eFD73Aykt36PA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wildfire-service@spartan-vertex-275909.iam.gserviceaccount.com",
+  "client_id": "111935125726201537037",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wildfire-service%40spartan-vertex-275909.iam.gserviceaccount.com"
+}
