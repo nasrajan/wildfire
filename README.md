@@ -1,12 +1,11 @@
 # Wildfire
-![Proposed solution](/fire_spread/images/proposed_solution.png)
+
 
 # Data Pre-processing
 Here's a link to the [Data preprocessing scripts](/preprocessing)
 
 # Fire Prediction
 Here's a link to the [Fire Prediction model](/fire_prediction)
-![Fire Prediction Sample](/fire_spread/images/fire_prediction_sample.png)
 
 # Fire Detection
 Here's a link to the [Fire Detection model](/fire_detection)
