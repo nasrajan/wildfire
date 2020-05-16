@@ -5,7 +5,8 @@
 Here's a link to the [Data preprocessing scripts](/preprocessing)
 
 # Fire Prediction
-Here's a link to the [Fire Prediction model](/fire_prediction/fire_prediction_sample.jpeg)
+Here's a link to the [Fire Prediction model](/fire_prediction)
+![Fire Prediction Sample](/fire_spread/images/fire_prediction_sample.jpeg)
 
 # Fire Detection
 Here's a link to the [Fire Detection model](/fire_detection)
