@@ -1,0 +1,16 @@
+filename,width,height,class,xmin,ymin,xmax,ymax,image,label
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180808_20180808_01_RT.json,854,869,Fire,286,188,333,227,LC08_L1TP_040037_20180808_20180808_01_RT.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180808_20180808_01_RT.json,854,869,Smoke,306,146,334,176,LC08_L1TP_040037_20180808_20180808_01_RT.jpeg,6
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180808_20180808_01_RT.json,854,869,Smoke,258,176,283,198,LC08_L1TP_040037_20180808_20180808_01_RT.jpeg,6
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20131216_20170307_01_T1.json,854,869,Fire,367,394,479,480,LC08_L1TP_040037_20131216_20170307_01_T1.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20131216_20170307_01_T1.json,854,869,Fire,512,389,711,463,LC08_L1TP_040037_20131216_20170307_01_T1.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20131216_20170307_01_T1.json,854,869,Fire,579,155,648,207,LC08_L1TP_040037_20131216_20170307_01_T1.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20131216_20170307_01_T1.json,854,869,Fire,162,441,307,501,LC08_L1TP_040037_20131216_20170307_01_T1.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180707_20180707_01_RT.json,854,869,Fire,535,496,565,581,LC08_L1TP_040037_20180707_20180707_01_RT.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180707_20180707_01_RT.json,854,869,Smoke,586,515,638,634,LC08_L1TP_040037_20180707_20180707_01_RT.jpeg,6
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180707_20180707_01_RT.json,854,869,Smoke,476,169,526,231,LC08_L1TP_040037_20180707_20180707_01_RT.jpeg,6
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180707_20180707_01_RT.json,854,869,Fire,442,142,510,162,LC08_L1TP_040037_20180707_20180707_01_RT.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20180707_20180707_01_RT.json,854,869,Smoke,632,763,694,798,LC08_L1TP_040037_20180707_20180707_01_RT.jpeg,6
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20130725_20170309_01_T1.json,853,869,Fire,702,376,788,423,LC08_L1TP_040037_20130725_20170309_01_T1.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20130725_20170309_01_T1.json,853,869,Fire,625,494,680,581,LC08_L1TP_040037_20130725_20170309_01_T1.jpeg,5
+/Users/shalu/Documents/ML-Research/data/keras-frcnn/train_json/LC08_L1TP_040037_20130725_20170309_01_T1.json,853,869,Fire,778,148,850,264,LC08_L1TP_040037_20130725_20170309_01_T1.jpeg,5
