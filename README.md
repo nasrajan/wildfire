@@ -2,7 +2,7 @@
 ![Proposed solution](/fire_spread/images/proposed_solution.png)
 
 # Data Pre-processing
-Here's a link to the [Fire Prediction model](/preprocessing)
+Here's a link to the [Data preprocessing scripts](/preprocessing)
 
 # Fire Prediction
 Here's a link to the [Fire Prediction model](/fire_prediction)
