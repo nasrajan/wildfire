@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "@google/earthengine": "^0.1.220",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0"
   },
   "devDependencies": {},
